@@ -25,5 +25,7 @@ Lect 5: Basic concepts of segmentation  ........................................
 Lab 5: Segmentation using the U-Net  ..................................................[[Link](https://github.com/dennishnf/intro-to-deep-learning/blob/master/Labs/Lab5-Segmentation/main.ipynb)]  
 Lect 6: Additional contents  ....................................................................[[Link](https://github.com/dennishnf/intro-to-deep-learning/blob/master/Slides/Lect6-Additional.pdf)]  
 
+### Resouces: ###
 
+A list of additional resources: [[Link](https://github.com/dennishnf/intro-to-deep-learning/blob/master/RESOURCES.md)]
 
