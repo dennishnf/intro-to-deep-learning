@@ -6,12 +6,6 @@
 - "Deep Learning". Ian Goodfellow, Yoshua Bengio, Aaron Courville. [[link](http://www.deeplearningbook.org/)].  
 - "Machine Learning Yearning". Andrew Ng. [[link](https://www.deeplearning.ai/machine-learning-yearning/)].  
 - "Deep Learning with Python". François Chollet. [[link](https://www.amazon.com/-/es/Fran%C3%A7ois-Chollet/dp/1617294438)].
-
-### Papers ###
-
-- (great overview) "Deep learning". Yann LeCun, Yoshua Bengio, Geoffrey Hinton. [[link](http://pages.cs.wisc.edu/~dyer/cs540/handouts/deep-learning-nature2015.pdf)].  
-- (AlexNet paper) "ImageNet Classification with Deep Convolutional Neural Networks". Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton. [[link](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)].  
-- (GoogLeNet paper) "Going deeper with convolutions". Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich. [[link](https://arxiv.org/pdf/1409.4842.pdf)].  
 - Computer Vision: Models, Learning, and Inference - Simon J. D. Prince 2012. [[link](http://www.computervisionmodels.com/)].  
 - Computer Vision: Theory and Application - Rick Szeliski 2010. [[link](http://szeliski.org/Book/)].  
 - Computer Vision: A Modern Approach (2nd edition) - David Forsyth and Jean Ponce 2011. [[link](http://www.amazon.com/Computer-Vision-Modern-Approach-2nd/dp/013608592X/ref=dp_ob_title_bk)].  
@@ -19,6 +13,12 @@
 - Computer Vision - Linda G. Shapiro 2001. [[link](http://www.amazon.com/Computer-Vision-Linda-G-Shapiro/dp/0130307963)].  
 - Visual Object Recognition synthesis lecture - Kristen Grauman and Bastian Leibe 2011. [[link](http://www.morganclaypool.com/doi/abs/10.2200/S00332ED1V01Y201103AIM011)].  
 - High dynamic range imaging: acquisition, display, and image-based lighting - Reinhard, E., Heidrich, W., Debevec, P., Pattanaik, S., Ward, G., Myszkowski, K 2010. [[link](http://www.amazon.com/High-Dynamic-Range-Imaging-Second/dp/012374914X)].
+
+### Papers ###
+
+- (great overview) "Deep learning". Yann LeCun, Yoshua Bengio, Geoffrey Hinton. [[link](http://pages.cs.wisc.edu/~dyer/cs540/handouts/deep-learning-nature2015.pdf)].  
+- (AlexNet paper) "ImageNet Classification with Deep Convolutional Neural Networks". Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton. [[link](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)].  
+- (GoogLeNet paper) "Going deeper with convolutions". Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich. [[link](https://arxiv.org/pdf/1409.4842.pdf)].  
 
 ### Online courses ###
 
