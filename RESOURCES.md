@@ -16,9 +16,9 @@
 
 ### Papers ###
 
-- (great overview) "Deep learning". Yann LeCun, Yoshua Bengio, Geoffrey Hinton. [[link](http://pages.cs.wisc.edu/~dyer/cs540/handouts/deep-learning-nature2015.pdf)].  
-- (AlexNet paper) "ImageNet Classification with Deep Convolutional Neural Networks". Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton. [[link](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)].  
-- (GoogLeNet paper) "Going deeper with convolutions". Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich. [[link](https://arxiv.org/pdf/1409.4842.pdf)].  
+- (great overview) "Deep learning". Y. LeCun, Y. Bengio, G. Hinton. [[link](http://pages.cs.wisc.edu/~dyer/cs540/handouts/deep-learning-nature2015.pdf)].  
+- (AlexNet paper) "ImageNet Classification with Deep Convolutional Neural Networks". A. Krizhevsky, I. Sutskever, G. E. Hinton. [[link](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)].  
+- (GoogLeNet paper) "Going deeper with convolutions". Ch. Szegedy, W. Liu, Y. Jia, P. Sermanet, S. Reed, D. Anguelov, D. Erhan, V. Vanhoucke, A. Rabinovich. [[link](https://arxiv.org/pdf/1409.4842.pdf)].  
 
 ### Online courses ###
 
