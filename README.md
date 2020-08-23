@@ -24,3 +24,5 @@ Lab 4: Object detection  .......................................................
 Lect 5: Basic concepts of segmentation  ...............................................[[Link](https://github.com/dennishnf/intro-to-deep-learning/blob/master/Slides/Lect5-Segmentation.pdf)]  
 Lab 5: Segmentation  ............................................................................[[Link](https://github.com/dennishnf/intro-to-deep-learning/blob/master/Labs/Lab5-Segmentation/main.ipynb)]  
 Lect 6: Additional contents  ...................................................................[[Link](https://github.com/dennishnf/intro-to-deep-learning/blob/master/Slides/Lect6-Additional.pdf)]  
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/drive/folders/1Ae9qEVQ3jGAy9iG0ptHls_dctmYB4aY7?usp=sharing)
