@@ -1,5 +1,5 @@
 
-## Artificial Intelligence ##
+## RESOURCES ##
 
 ### Books ###
 
