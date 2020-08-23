@@ -73,7 +73,7 @@
 
 - Tensorflow: An open source software library for numerical computation using data flow graph by Google [[link](https://www.tensorflow.org/)].  
 - Torch7: Deep learning library in Lua, used by Facebook and Google Deepmind [[link](http://torch.ch/)].  
-- Torch-based deep learning libraries: [[link](https://github.com/torchnet/torchnet](torchnet)].  
+- Torch-based deep learning libraries: [[link](https://github.com/torchnet/torchnet)].  
 - Caffe: Deep learning framework by the BVLC [[link](http://caffe.berkeleyvision.org/)].  
 - Theano: Mathematical library in Python, maintained by LISA lab [[link](http://deeplearning.net/software/theano/)].  
 - Theano-based deep learning libraries: [[link](http://deeplearning.net/software/pylearn2/)], [[link](https://github.com/mila-udem/blocks)], [[link](http://keras.io/)], [[link](https://github.com/Lasagne/Lasagne)].  
