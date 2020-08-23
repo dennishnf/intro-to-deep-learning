@@ -1,6 +1,5 @@
 
-## Deep Learning: Fundamentos y Aplicaciones ##
-
+## Introduction to Deep Learning: Fundamentals and Applications ##
 
 Dennis Núñez Fernández  
 [https://dennishnf.com](https://dennishnf.com) 
