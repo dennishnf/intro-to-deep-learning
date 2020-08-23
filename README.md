@@ -17,7 +17,7 @@ En este taller se brindarán los conceptos básicos para que los participantes p
 
 Lect 0: Introducción a Inteligencia Artificial y Deep Learning  ...[[Link](https://github.com/dennishnf/intro-to-deep-learning/blob/master/Slides/Lect0-Intro.pdf)]  
 Lect 1: Herramientas: Tensorflow, Keras, Python, Google Colab  ...[[Link]()]  
-Lab 1: Uso de herramientas  ...[[Link]()]  
+Lab 1: Uso de herramientas  ......................................[[Link]()]  
 Lect 2: Conceptos básicos de redes neuronales  ...[[Link]()]    
 Lab 2: Redes neuronales  ...[[Link]()]  
 Lect 3: Conceptos básicos de clasificación  ...[[Link]()]  
