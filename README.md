@@ -7,7 +7,9 @@ Dennis Núñez Fernández
 
 ### Description: ###
 
-In this basic course we will provide the basic concepts so that the participants can have an approach to the area of Deep Learning, at the same time we will provide practical examples for a better understanding of the topics.
+In this basic course we will provide the basic concepts so that the participants can have an approach to the area of Deep Learning, at the same time we will provide practical examples for a better understanding of the topics, all examples are provided in Google Colab.
+
+Note: After open the main.ipynb files, select "Copy in Drive", and modify some paths in the main.ipynb of some labs in order to work properly.
 
 
 ### Agenda: ###
