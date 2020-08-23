@@ -1,5 +1,5 @@
 
-## RESOURCES ##
+## Deel Learning Resources ##
 
 ### Books ###
 
