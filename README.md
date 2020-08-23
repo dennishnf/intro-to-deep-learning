@@ -23,7 +23,7 @@ Lect 4: Basic concepts of object detection  ....................................
 Lab 4: Object detection using using Faster R-CNN  .............................[[Link](https://github.com/dennishnf/intro-to-deep-learning/blob/master/Labs/Lab4-Detection/main.ipynb)]  
 Lect 5: Basic concepts of segmentation  ...............................................[[Link](https://github.com/dennishnf/intro-to-deep-learning/blob/master/Slides/Lect5-Segmentation.pdf)]  
 Lab 5: Segmentation using the U-Net  ..................................................[[Link](https://github.com/dennishnf/intro-to-deep-learning/blob/master/Labs/Lab5-Segmentation/main.ipynb)]  
-Lect 6: Additional contents  ...................................................................[[Link](https://github.com/dennishnf/intro-to-deep-learning/blob/master/Slides/Lect6-Additional.pdf)]  
+Lect 6: Additional contents  ....................................................................[[Link](https://github.com/dennishnf/intro-to-deep-learning/blob/master/Slides/Lect6-Additional.pdf)]  
 
 ### Resouces: ###
 
