@@ -1,6 +1,9 @@
 
 ## Introduction to Deep Learning: Fundamentals and Applications ##
 
+
+### Author: ###
+
 Dennis Núñez Fernández  
 [https://dennishnf.com](https://dennishnf.com) 
 
