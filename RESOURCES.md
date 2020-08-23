@@ -76,7 +76,7 @@
 - Torch-based deep learning libraries: [[link](https://github.com/torchnet/torchnet](torchnet)!].  
 - Caffe: Deep learning framework by the BVLC [[link](http://caffe.berkeleyvision.org/)].  
 - Theano: Mathematical library in Python, maintained by LISA lab [[link](http://deeplearning.net/software/theano/)].  
-- Theano-based deep learning libraries: [[link](http://deeplearning.net/software/pylearn2/](Pylearn2)!], [[link](https://github.com/mila-udem/blocks](Blocks)!], [[link](http://keras.io/](Keras)!], [[link](https://github.com/Lasagne/Lasagne](Lasagne)!].  
+- Theano-based deep learning libraries: [[link](http://deeplearning.net/software/pylearn2/)], [[link](https://github.com/mila-udem/blocks)], [[link](http://keras.io/)], [[link](https://github.com/Lasagne/Lasagne)!].  
 - MatConvNet: CNNs for MATLAB [[link](http://www.vlfeat.org/matconvnet/)].  
 - MXNet: A flexible and efficient deep learning library for heterog. distributed systems with multi-language support [[link](http://mxnet.io/)].
 
