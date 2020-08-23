@@ -1,5 +1,5 @@
 
-## Deel Learning Resources ##
+## Deep Learning Resources ##
 
 ### Books ###
 
