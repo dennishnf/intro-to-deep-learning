@@ -3,17 +3,15 @@
 
 
 Dennis Núñez Fernández  
-Asistente de Investigación UPCH  
-B.Sc. Ingeniería Electrónica UNI  
 [https://dennishnf.com](https://dennishnf.com) 
 
 
-### Descripción: ###
+### Description: ###
 
-En este taller se brindarán los conceptos básicos para que los participantes puedan tener un acercamiento al área de Deep Learning, a la vez se le brindará ejemplos prácticos para una mejor comprensión de los temas. Además, se desarrollará un proyecto como parte final del taller.
+In this basic course we will provide the basic concepts so that the participants can have an approach to the area of Deep Learning, at the same time we will provide practical examples for a better understanding of the topics.
 
 
-### Temario: ###
+### Agenda: ###
 
 Lect 0: Introduction to Artificial Intelligence and Deep Learning  ..........[[Link](https://github.com/dennishnf/intro-to-deep-learning/blob/master/Slides/Lect0-Intro.pdf)]  
 Lect 1: Tools: Google Colab, Python, Tensorflow, Keras  .....................[[Link](https://github.com/dennishnf/intro-to-deep-learning/blob/master/Slides/Lect1-Tools.pdf)]  
