@@ -1,5 +1,5 @@
 
-## Introduction to Deep Learning: Fundamentals and Applications ##
+## Introduction to Deep Learning ##
 
 
 ### Author: ###
