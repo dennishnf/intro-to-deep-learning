@@ -10,7 +10,7 @@ Dennis Núñez Fernández
 
 ### Description: ###
 
-In this basic course we will provide the basic concepts so that the participants can have an approach to the area of Deep Learning, at the same time we will provide practical examples for a better understanding of the topics, all examples are provided in Google Colab.
+This repository provides basic concepts for Deep Learning and practical examples for a better understanding of the topics, all examples are provided and are intended to be executed in Google Colab.
 
 Note 1: After opening the main.ipynb files in GitHub you can visualize the code previously executed, or you can click on "Open in Colab" and see the folder in my Google Drive. Then DOWNLOAD the folder and then UPLOAD the folder to your Google Drive, and modify some paths in the main.ipynb file of some labs according to your path in order to work properly. I strongly recommend downloading and uploading the lab folders to avoid different problems about shared files on Google Drive.
 
