@@ -21,7 +21,7 @@ Note 2: For datasets, zip files and temporal location in the tmp folder at Googl
 
 Lect 0: [Introduction to AI and Deep Learning](https://github.com/dennishnf/intro-to-deep-learning/blob/master/Slides/Lect0-Intro.pdf)  
 
-Lect 1: [Tools: Google Colab, Python, Tensorflow, Keras](https://github.com/dennishnf/intro-to-deep-learning/blob/master/Slides/Lect1-Tools.pdf)  
+Lect 1: [Tools: Google Colab, Tensorflow, Keras](https://github.com/dennishnf/intro-to-deep-learning/blob/master/Slides/Lect1-Tools.pdf)  
 Lab 1: [Use of tools and basic examples](https://github.com/dennishnf/intro-to-deep-learning/blob/master/Labs/Lab1-Tools/main.ipynb)    
 
 Lect 2: [Basic concepts of neural networks](https://github.com/dennishnf/intro-to-deep-learning/blob/master/Slides/Lect2-NeuralNetworks.pdf)  
