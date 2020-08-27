@@ -41,5 +41,5 @@ Lect 6: [Additional contents about AI and DL](https://github.com/dennishnf/intro
 
 ### Resources: ###
 
-You can find a list of additional resources like free course, papers, books and more: [[Link](https://github.com/dennishnf/intro-to-deep-learning/blob/master/RESOURCES.md)]
+You can find a list of additional resources like free course, papers, books and more in [this link](https://github.com/dennishnf/intro-to-deep-learning/blob/master/RESOURCES.md).
 
