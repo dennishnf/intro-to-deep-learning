@@ -36,10 +36,10 @@ Lab 4: [Object detection using Faster R-CNN](https://github.com/dennishnf/intro-
 Lect 5: [Basic concepts of segmentation](https://github.com/dennishnf/intro-to-deep-learning/blob/master/Slides/Lect5-Segmentation.pdf)  
 Lab 5: [Segmentation using the U-Net](https://github.com/dennishnf/intro-to-deep-learning/blob/master/Labs/Lab5-Segmentation/main.ipynb)  
 
-Lect 6: [Additional contents](https://github.com/dennishnf/intro-to-deep-learning/blob/master/Slides/Lect6-Additional.pdf)  
+Lect 6: [Additional contents about AI and DL](https://github.com/dennishnf/intro-to-deep-learning/blob/master/Slides/Lect6-Additional.pdf)  
 
 
 ### Resources: ###
 
-A list of additional resources: [[Link](https://github.com/dennishnf/intro-to-deep-learning/blob/master/RESOURCES.md)]
+You can find a list of additional resources like free course, papers, books and more: [[Link](https://github.com/dennishnf/intro-to-deep-learning/blob/master/RESOURCES.md)]
 
