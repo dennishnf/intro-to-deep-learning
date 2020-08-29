@@ -71,7 +71,7 @@ def trainGenerator(batch_size,train_path,image_folder,mask_folder,aug_dict,image
 def testGenerator(test_path,num_image = 30,target_size = (256,256),flag_multi_class = False,as_gray = True):
     for i in range(num_image):
         img = io.imread(os.path.join(test_path,"%d.png"%i),as_gray = as_gray)
-        #img = img / 255
+        img = img / 255
         img = trans.resize(img,target_size)
         img = np.reshape(img,img.shape+(1,)) if (not flag_multi_class) else img
         img = np.reshape(img,(1,)+img.shape)
@@ -100,5 +100,5 @@ def saveResult(save_path,npyfile,flag_multi_class = False,num_class = 2,threshol
         img = npyfile[i]
         img[img >= thresholding] = 1
         img[img < thresholding] = 0
+        img = img[:,:,0] if len(img.shape) == 3 else img
         io.imsave(os.path.join(save_path,"%d_predict.png"%i),img_as_ubyte(img))
-
